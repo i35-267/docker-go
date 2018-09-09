@@ -1,8 +1,9 @@
-##Overview
-Golang in Docker(echo) for Mac
+
+## Overview
+- Golang in Docker(echo) for Mac
 GolangをDockerコンテナ内で起動して、port:1323で『Hello World!』を出力します。
 
-##Usage
+## Usage
 - [Golang in Docker(echo) for Mac](https://qiita.com/i35_267/items/b839d3e08619471b37b3)
 
 
